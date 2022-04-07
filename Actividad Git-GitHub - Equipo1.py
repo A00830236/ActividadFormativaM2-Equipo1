@@ -8,13 +8,13 @@ Original file is located at
 
 ##Actividad M2.1 Uso de Google Colab##
 
-Daniela García
+Daniela García A00830236
 
-David Esquer Ramos
+David Esquer Ramos A01114940
 
-Arath Gonzalez
+Arath Gonzalez A01655058
 
-Daniel Saldaña
+Daniel Saldaña A00829752
 
 Tecnológico de Monterrey
 
