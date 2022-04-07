@@ -8,9 +8,14 @@ Original file is located at
 
 ##Actividad M2.1 Uso de Google Colab##
 
-Daniela García Coindreau
+Daniela García
 
-A00830236
+David Esquer Ramos
+
+Arath Gonzalez
+
+Daniel Saldaña
+
 """
 
 import pandas as pd
